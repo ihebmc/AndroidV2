@@ -1,0 +1,7 @@
+#Sat Aug 26 15:09:22 GMT+01:00 2023
+base.0=C\:\\Users\\allah\\AndroidStudioProjects\\m8-calculator\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\allah\\AndroidStudioProjects\\m8-calculator\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
